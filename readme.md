@@ -33,11 +33,9 @@ LICENSE: [MIT](./license.md)
 
 ### Ветвление 
 
-1.
-2.
-3.
-4.
-5.
+1. [git branch](./branch.md)
+2. [git checkout](./checkout.md)
+4. [git rebase](./rebase.md)
 
 ---
 ---
